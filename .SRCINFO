@@ -1,0 +1,13 @@
+pkgbase = deskgen
+	pkgdesc = Universal .desktop file generator (Python3 + PyQt6)
+	pkgver = 1.0
+	pkgrel = 1
+	url = https://github.com/Fera-Maxwell/deskgen
+	arch = any
+	license = GPL
+	depends = python
+	depends = python-pyqt6
+	source = https://raw.githubusercontent.com/Fera-Maxwell/deskgen/main/deskgen
+	sha256sums = SKIP
+
+pkgname = deskgen
